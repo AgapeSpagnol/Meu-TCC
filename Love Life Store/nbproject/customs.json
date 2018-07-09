@@ -1,0 +1,18 @@
+{
+    "elements": {
+        "br": {},
+        "p": {
+            "attributes": {
+                "align": {}
+            }
+        },
+        "b": {},
+        "h4": {},
+        "h5": {}
+    },
+    "attributes": {
+        "size": {
+            "context": "table"
+        }
+    }
+}

@@ -1,0 +1,256 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Love Life Store</title>
+        <link rel="stylesheet" type="text/css"  href="lovelifestore.css" /> 
+        <link rel="shortcut icon" type="image/x-icon" href="Imagens/Icone.ico"> 
+    </head>
+    <body>
+
+    <a href="Home.html"><img src="Imagens/Logo.png" id="Logo"></a>
+
+    <br><br><br><br>
+
+    <ul class="menu">
+
+        <li><center><a href="Principal.php">Home</a></center></li>
+    <li><center><a href="LojaPrincipal.php">Loja</a></center></li>
+    <li><center><a href="Sobre a Empresa User.html">Sobre a Empresa</a></center></li>
+    <li><center><a href="Contatos User.html">Contatos</a></center></li>
+    <li><center><a href="Home.html">Sair</a></center></li>
+</ul>
+
+
+
+
+
+<!--JUJUBA ROSA-->
+
+<div class="card" id="jujubarosa" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Jujuba Rosa.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center"><h2 class="card-title" ALIGN="center"><Font color="magenta" style="font-family:DIN Next Light">Jujuba Rosa</Font></h2></p>
+    </div>
+    <dl> 
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Melancia, Linhaça Dourada, Gengibre.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Melhora desempenho físico, acelera metabolismo, diurético, ação anti-inflamatória.</p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+
+    </dl>  
+</div>
+<!--JUJUBA ROSA-->
+
+
+
+<!--ENERGIA VERDE-->
+
+<div  class="card" id="energiaverde" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Energia Verde.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center"> <h2 class="card-title" ALIGN="center"><Font color="green" style="font-family:DIN Next Light">Energia Verde</Font></h2> </p>
+    </div>
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Abacaxi, Couve , Gengibre, Maçã, Limão, Hortelã, Linhaça Dourada.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Perda de peso, elimina toxinas, anti-celulite, funciona como pré-treino.</p></dd><br>
+        <dt><p align="center"style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--ENERGIA VERDE-->
+
+
+
+<!--Beta  Cia-->
+
+<div  class="card" id="betacia" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Beta Cia.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="red" style="font-family:DIN Next Light">Beta💗Cia</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Beterraba, Melancia, Limão, Hortelã.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Combate anemia, aumenta disposição, bom para pele e fígado, desintoxica.</p></dd><br><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Beta  Cia-->
+
+
+
+<!--Metabolix-->
+
+
+<div  class="card" id="metabolix" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Metabolix.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="green" style="font-family:DIN Next Light">Metabolix</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Pepino, Melão, Maçã, Limão, Gengibre, Hortelã, Chia.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Perda de peso, elimina toxinas, diurético, saciedade, acelera metabolismo.</p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Metabolix-->
+
+
+
+<!--Nham Nhame-->
+
+<div  class="card" id="nhanhame" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Nham Nhame.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="greenyellow" style="font-family:DIN Next Light">Nham Nhame</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Inhame, Limão, Abacaxi, Hortelã.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Fortalece sistema imunológico, melhora o humor, equilibra níveis de colesterol.</p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Nham Nhame-->
+
+<!--Abacamix-->
+<div  class="card" id="abacamix" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Abacamix.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="palevioletred" style="font-family:DIN Next Light">Abacamix</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Abacaxi, Hortelã, Linhaça Dourada.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light"> Digestão, humor, pele, retenção de líquidos, anti-inflamatório.</p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Abacamix-->
+
+<!--Aloha-->
+<div  class="card" id="aloha" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Aloha.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="darkpink" style="font-family:DIN Next Light"> Aloha</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Maçã, Limão, Gengibre, Melancia, Pimenta Caiena.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify"style="font-family:DIN Next Light">Este suco tem propriedades termogênicas, antioxidantes, diuréticas, e auxilia na perda de peso.</p></dd><br>
+        <dt><p align="center"style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Aloha-->
+
+<!--Tropical-->
+<div  class="card" id="tropical" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Tropical.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="orange" style="font-family:DIN Next Light"> Tropical</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Cenoura, Laranja, Gengibre, Hortelã, Maçã, Limão, Chia.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Acelera o metabolismo,queima gorduras,bom para pele, digestão, desintoxica, saciedade, fortalece o sistema imunológico.</p></dd>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Tropical-->
+
+<!--Suchá de Hibisco-->
+<div  class="card" id="suchádehibisco" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Suchá de Hibisco.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="#FFC0CB" style="font-family:DIN Next Light">Suchá de Hibisco</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Hibisco, Morango, Melancia, Maçã.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Combate o acúmulo de gordura abdominal, memória, calmante, diurético, perda de peso.</p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Suchá de Hibisco-->
+
+<!--Relax-->
+
+<div  class="card" id="relax" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Relax.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center" style="font-family:DIN Next Light"><Font color="#FF7F50">Relax</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify" style="font-family:DIN Next Light">Melão, Maracujá, Camomila.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Reduz ansiedade e agitação , relaxa corpo e músculos, alivia a insônia.</p></dd><br><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+<!--Relax-->
+
+<!--Paradise
+<div  class="card" id="paradise" style="width: 230px;" >
+    <img class="card-img-top" src="Imagens/Loja/Beta e Cia.png" alt="Card image cap">
+    <div class="card-block">
+        <br><br><br><br><br><br><br><br>
+        <p align="center" ><h2 class="card-title" ALIGN="center"><Font color="#FFD700" style="font-family:DIN Next Light">Paradise</Font></h2></p>
+    </div>           
+    <dl>
+        <br><br><br>
+        <b><p style="font-family:DIN Next Light">Ingredientes:</p></b>
+        <dt><p align="justify"  style="font-family:DIN Next Light">Abacaxi, Melancia,Gengibre.</p></dt><br>
+        <b><p style="font-family:DIN Next Light">Descrição:</p></b>
+        <dd><p align="justify" style="font-family:DIN Next Light">Este suco ajuda muito a emagrecer por causa das propriedades dos seus ingredientes. </p></dd><br>
+        <dt><p align="center" style="font-family:DIN Next Light"><Font size="5%" color="green">R$ 6,00</Font></dt></p>
+    </dl>  
+</div>
+Paradise-->
+
+
+
+
+
+<a href="Compra.php"><input type="button" value="Faça o seu Pedido!!"  style="font-family:DIN Next Light" id="pedidoup"></a>
+<a href="Compra.php"><input type="button" value="Faça o seu Pedido!!"  style="font-family:DIN Next Light" id="pedidodown"></a>
+
+
+<a href=thtps://goo.gl/wqvVJ8><img src="Imagens/Rede Social/Facebook.png"  id="facebook_loja"></a>
+<a href=https://goo.gl/mLLJEx><img src="Imagens/Rede Social/Instagram.png" id="instagram_loja"></a>
+<!--<a href=lovelifestore1@gmail.com><img src="Rede Social/GMAIL.png"  id="gmail"></a>-->
+
+
+
+</body>
+</html>

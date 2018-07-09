@@ -1,0 +1,479 @@
+
+/*MENU*/
+
+*{ margin: 0;
+   padding: 0;
+}
+
+body{ font-family: "trebuchet ms"; }
+a{ 
+    text-decoration: none; color: #000; 
+}
+a:hover{ }
+
+#all{
+    width: 580px;
+    height: 100px;
+    line-height: 80px;  /*centraliza na vertical */
+    background-color: #f1f1f1;
+    border: 1px dashed #ccc;
+    margin: 0 auto;
+}
+
+
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:inline-block;}
+
+ul.menu{
+    text-align: center;
+    left:20%;
+    top:10%;             /*  centraliza na horizontal */
+}
+ul.menu li{
+    display: inline-block;  /*centraliza na horizontal */
+    margin: 0 5px;
+    border: 2px solid #dfa3c4;
+    border-radius: 5px;
+}
+ul.menu li a:hover{
+    background:#eb2090; 
+    color:#fff; 
+    -moz-box-shadow:0 3px 10px 0 #CCC; 
+    -webkit-box-shadow:0 3px 10px 0 #ccc; 
+    text-shadow:0px 0px 5px #fff; 
+}
+ul.menu li a:hover{
+    background-color: "black";
+}
+/*MENU*/
+
+/*TEXTOS*/
+
+form{
+    position:absolute;
+    left:20%;
+    top:10%; 
+}
+
+#sobre{
+    left:10%;
+    top:27%; 
+}
+
+#slider{
+    position: absolute;
+    left: 0;
+    right:0;
+    margin: 0 auto;
+}
+#slogan{
+    position:absolute;
+    left:40%;
+    top:110%;
+}
+#pedido{
+    position:absolute;
+    left:75%;
+    top:75%;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    width: 10%;
+    margin: 5px 0;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#Carrinho{
+    position:absolute;
+    left:85%;
+    top:10%;
+}
+
+#carrinho{
+    position:absolute;
+    left:85%;
+    top:10%;
+}
+
+#pedidos{
+    position:absolute;
+    left:25%;
+    top:35%;
+}
+
+div{
+    position:absolute;
+    left:15%;
+    top:30%; 
+}
+
+#whatsapp{
+    left:90%;
+    top:50%;
+}
+
+#facebook{
+    position:absolute;
+    left:40%;
+    top:35%;
+}
+
+#instagram{
+    position:absolute;
+    left:40%;
+    top:62%;
+}
+
+#gmail{
+    position:absolute;
+    left:35%;
+    top:90%;
+}
+/*TEXTOS*/
+
+#logar{  
+    left:65%;
+    top:20;  
+}
+#arredondar{
+    padding: 5px;
+    margin: -3px ;
+    border: 2px solid black;
+    border-radius: 20px 20px ;
+}
+#login{
+    position:absolute;
+    left:110%;
+    top:-15;
+    border-radius: 5px;
+    background-color:pink;
+    padding: 5px;
+    width: 15%;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1px solid #dfa3c4;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#cadastrar{
+    left:60%;
+    top:70%;
+    border-radius: 5px;
+    background-color:pink;
+    padding: 5px;
+    width: 15%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #dfa3c4;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#rede{
+    position:absolute;
+    left:25%;
+    top:40%;
+}
+
+/*IMAGENS*/
+
+#Logo{
+    position:absolute;
+    left:22%;
+    top:5%;
+
+}
+
+#Home{
+    position:absolute;
+    left:17%;
+    top:35%; 
+}
+
+#Empresa{
+    position:absolute;
+    left:60%;
+    top:25%;
+}
+
+/*REDE SOCIAIS*/
+#facebook_home{
+    position:absolute;
+    left:90%;
+    top:150%; 
+}
+
+#instagram_home{
+    position:absolute;
+    left:95%;
+    top:150%; 
+}
+
+#facebook_loja{
+    position:absolute;
+    left:90%;
+    top:430%; 
+}
+
+#instagram_loja{
+    position:absolute;
+    left:95%;
+    top:430%; 
+}
+
+#facebook_empresa{
+    position:absolute;
+    left:90%;
+    top:120%; 
+}
+
+#instagram_empresa{
+    position:absolute;
+    left:95%;
+    top:120%; 
+}
+
+#facebook_home_user{
+    position:absolute;
+    left:90%;
+    top:150%; 
+}
+
+#instagram_home_user{
+    position:absolute;
+    left:95%;
+    top:150%; 
+}
+
+#facebook_loja_user{
+    position:absolute;
+    left:90%;
+    top:430%; 
+}
+
+#instagram_loja_user{
+    position:absolute;
+    left:95%;
+    top:430%; 
+}
+
+
+/*REDE SOCIAIS*/
+
+
+
+#formulario{
+    position:absolute;
+    left:25%;
+    top:40%; 
+}
+
+/*IMAGENS*/
+
+/*LOJA*/
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}   
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+#energiaverde{
+    position:absolute;
+    left:40%;
+    top:30%; 
+}
+#betacia{
+    position:absolute;
+    left:68%;
+    top:30%;
+}
+
+#metabolix{
+    position:absolute;
+    left:15%;
+    top:125%;
+}
+
+#nhanhame{
+    position:absolute;
+    left:40%;
+    top:125%;
+}
+
+#abacamix{
+    position:absolute;
+    left:68%;
+    top:125%;
+}
+
+#aloha{
+    position:absolute;
+    left:15%;
+    top:220%;
+}
+
+#tropical{
+    position:absolute;
+    left:40%;
+    top:220%; 
+}
+
+
+#suchádehibisco{
+    position:absolute;
+    left:68%;
+    top:220%;
+}
+
+#relax{
+    position:absolute;
+    left:15%;
+    top:320%;
+}
+#paradise{
+    position:absolute;
+    left:40%;
+    top:320%;
+}
+
+#pedidoup{
+    position:absolute;
+    left:70%;
+    top:20%;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    width: 10%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#pedidodown{
+    position:absolute;
+    left:70%;
+    top:350%;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    width: 10%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+/*LOJA*/
+
+/*PEDIDOS*/
+
+#jujuba{
+    position:absolute;
+    left:70%;
+    top:20%;
+}
+#energia{
+
+}
+
+#finalizar_pedido{
+    position:absolute;
+    left:60%;
+    top:50%;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    width: 10%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#atualizar_carrinho{
+    position:absolute;
+    left:20%;
+    top:120%;
+    border-radius: 5px;
+    background-color:white;
+    padding: 5px;
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+/*ADMINISTRADOR*/
+#BTN_Clientes{
+    position:absolute;
+    left:15%;
+    top:50%;
+    border-radius: 5px;
+    background-color:pink;
+    padding: 5px;
+    width: 15%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#BTN_Produtos{
+    position:absolute;
+    left:40%;
+    top:50%;
+    border-radius: 5px;
+    background-color:pink;
+    padding: 5px;
+    width: 15%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#BTN_Pedidos{
+    position:absolute;
+    left:70%;
+    top:50%;
+    border-radius: 5px;
+    background-color:pink;
+    padding: 5px;
+    width: 15%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/*ADMINISTRADOR*/
+
+
+#Produtos{
+    position:absolute;
+    left:20%;
+    top:50%;
+}
+
+#Quantidade{
+    position:absolute;
+    left:20%;
+    top:70%;
+}
+
